@@ -17,4 +17,6 @@ Every time you wish to run any of the scripts, please type the following command
 ```
 source tweets_hashtags/bin/activate # Activates virtual environment
 ```
+## License
+The project is licensed under the MIT License - see the LICENSE.md file for details
 
