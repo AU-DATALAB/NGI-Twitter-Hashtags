@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VENVNAME=tweets_marie
+VENVNAME=tweets_hashtags
 
 python3 -m venv $VENVNAME
 source $VENVNAME/bin/activate
