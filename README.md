@@ -15,6 +15,6 @@ bash create_venv.sh # Creates a virtual environment
 Every time you wish to run any of the scripts, please type the following commands:
 
 ```
-source tweets_marie/bin/activate # Activates virtual environment
+source tweets_hashtags/bin/activate # Activates virtual environment
 ```
 
